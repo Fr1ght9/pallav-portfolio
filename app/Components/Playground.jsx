@@ -125,7 +125,7 @@ export default function Playground() {
                 </div>
                 <div>
                    <a 
-                  href="https://architect-port-folio-azjjde5q6-fr1ght9s-projects.vercel.app/" 
+                  href="https://anunaik360-arc.vercel.app/" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="mt-8 inline-flex items-center text-cyan-400 font-mono text-sm group/link"
